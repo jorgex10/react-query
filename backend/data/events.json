@@ -45,12 +45,12 @@
     "image": "buzzing-city.jpg"
   },
   {
-    "id": "9885",
-    "title": "Some cool event",
-    "description": "Description for some cool event",
+    "id": "2681",
+    "title": "To edit!",
+    "description": "event to test the edition",
     "date": "2023-10-12",
-    "time": "19:35",
+    "time": "13:24",
     "location": "some location",
-    "image": "laptop-on-desk.jpg"
+    "image": "park.jpg"
   }
 ]
